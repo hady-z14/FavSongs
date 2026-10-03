@@ -12,13 +12,13 @@ div{
 h5{
     padding-left: 12px;
     display: inline-block;
-    width: 70%;
 }
 .song{
     border-radius: 15px;
     padding: 9px;
     margin: 15px;
     background-color: #C9C5B1;
+    display: flex;
 }
 h2{
     padding-left: 19px;
@@ -28,4 +28,13 @@ h1{
     padding: 15px;
     border-radius: 0px 0px 12px 12px;
     background-color: #EDE8D0;
+}
+button{
+    background-color: #EDE8D0;
+    border-radius: 12px;
+    margin-left: auto;
+    border: 0px;
+}
+a{
+    text-decoration: none;
 }
