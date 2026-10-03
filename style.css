@@ -1,0 +1,31 @@
+html{
+    background-color: #E5DECA;
+    color: #001409;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div{
+    background-color: #EDE8D0;
+    padding: 15px;
+    margin: 9px;
+    border-radius: 15px;
+}
+h5{
+    padding-left: 12px;
+    display: inline-block;
+    width: 70%;
+}
+.song{
+    border-radius: 15px;
+    padding: 9px;
+    margin: 15px;
+    background-color: #C9C5B1;
+}
+h2{
+    padding-left: 19px;
+}
+h1{
+    margin: -3px;
+    padding: 15px;
+    border-radius: 0px 0px 12px 12px;
+    background-color: #EDE8D0;
+}
